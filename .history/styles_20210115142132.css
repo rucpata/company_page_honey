@@ -1,0 +1,20 @@
+body{
+    font-size: 16px;
+}
+
+header{
+    display: flex; 
+    justify-content: space-between;
+    padding: 
+}
+
+li{
+    display: inline-block;
+}
+
+img{
+    height: 80px;
+    width: auto;
+    
+
+}

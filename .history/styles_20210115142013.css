@@ -1,0 +1,17 @@
+body{
+    font-size: 16px;
+}
+
+header{
+    display: flex; 
+    justify-content: sp;
+}
+
+li{
+    display: inline-block;
+}
+
+img{
+    height: 80px;
+    width: auto;
+}

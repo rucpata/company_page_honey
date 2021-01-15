@@ -1,0 +1,12 @@
+body{
+    font
+}
+
+header{
+    display: flex;
+}
+
+img{
+    height: 80px;
+    width: auto;
+}

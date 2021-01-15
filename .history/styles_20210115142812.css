@@ -1,0 +1,25 @@
+body {
+    font-size: 16px;
+}
+
+header {
+    display: flex; 
+    justify-content: space-between;
+    padding: 20px 20px;
+}
+
+li {
+    display: inline-block;
+    padding: 0 10px;
+    text-transform: uppercase;
+    color: gold;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    height: 80px;
+    width: auto;
+}

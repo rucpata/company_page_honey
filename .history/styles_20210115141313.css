@@ -1,0 +1,18 @@
+body{
+    font-size: 16px;
+}
+
+header{
+    position: fixed;
+    
+}
+
+
+li{
+    display: inline-block;
+}
+
+img{
+    height: 80px;
+    width: auto;
+}
